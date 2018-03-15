@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/me-box/lib-python-databox.git"
+    "url": "git+https://github.com/tsh2/lib-python-databox.git"
   },
   "keywords": [
     "template",
@@ -19,9 +19,9 @@
   "author": "Poonam Yadav <p.yadav@acm.org> (http://poonamyadav.net/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/me-box/lib-python-databox/issues"
+    "url": "https://github.com/tsh2/lib-python-databox/issues"
   },
-  "homepage": "https://github.com/me-box/lib-python-databox#readme",
+  "homepage": "https://github.com/tsh2/lib-python-databox#readme",
   "dependencies": {
     "node-databox": "^0.5.1"
   }

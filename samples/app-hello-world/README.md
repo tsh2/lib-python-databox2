@@ -88,10 +88,10 @@ In the manifest, two important things to notice here are "databox-type" and "res
 		"python"
 	],
 
-	"homepage": "https://github.com/me-box/lib-python-databox",
+	"homepage": "https://github.com/tsh2/lib-python-databox",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/me-box/lib-python-databox"
+		"url": "git+https://github.com/tsh2/lib-python-databox"
 	},
 	
 	"allowed-combinations": [],
